@@ -1,0 +1,3 @@
+C:/Users/Denis/CLionProjects/BJ_sim/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Denis/CLionProjects/BJ_sim/cmake-build-debug/CMakeFiles/BJ_sim.dir
+C:/Users/Denis/CLionProjects/BJ_sim/cmake-build-debug/CMakeFiles/edit_cache.dir
